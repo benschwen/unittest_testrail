@@ -14,7 +14,6 @@ class BaseTest(unittest.TestCase):
     # PROPERTIES WITH *SETTERS* NEED ONLY EXIST FOR ATTRIBUTES THAT ARE NON BUILTIN TYPES
     #
 
-    ### SAUCELABS STUFF ----->
     def __get_test_method_attribute(self, attribute_name: str):
         """
 
