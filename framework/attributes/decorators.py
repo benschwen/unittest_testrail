@@ -1,6 +1,6 @@
 # DECORATOR --->
-from unittest_testrail.attributes.categories import Category
-from unittest_testrail.attributes.test_types import TestType
+from framework.attributes.categories import Category
+from framework.attributes.test_types import TestType
 
 def test_type(type: TestType):
     """ Used for reference to the test rail test case's test section """
