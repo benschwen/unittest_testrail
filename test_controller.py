@@ -18,7 +18,7 @@ from unittest import TestSuite
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 
-from framework.base_test import BaseSeleniumTest
+from framework.base_selenium_test import BaseSeleniumTest
 from framework.configuration import TestRun
 from framework.attributes.test_types import TestType
 from test_rail.api_helper import TestRailApi
