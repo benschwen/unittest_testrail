@@ -12,7 +12,7 @@ class EcommerceSeleniumTests(BaseSeleniumTest):
     @test_type(TestType.FUNCTIONAL)
     @test_category(Category(UserScenario.ENROLLMENT))
     @test_category(Category(Market.CANADA))
-    def run_ecommerce_enrollment(self):
+    def test_run_ecommerce_enrollment(self):
     #     calls page object model to enroll customer and doesn't need to worry about anything since it's all handled in
     #     the BaseSeleniumTest
         pass

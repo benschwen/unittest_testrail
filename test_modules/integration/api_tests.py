@@ -12,6 +12,6 @@ class EcommerceApiTests(BaseTest):
     @test_type(TestType.INTEGRATION)
     @test_category(Category(UserScenario.ENROLLMENT))
     @test_category(Category(Market.CANADA))
-    def get_ecommerce_enrollment_status(self):
+    def test_get_ecommerce_enrollment_status(self):
     #     calls an api to get the status of some canada enrollment
         pass
