@@ -7,5 +7,14 @@ you'll find many examples of how this can be applied to a selenium framework, or
 
 see test_modules/**.py for usage of attributes on test methods
 
-#### USE AS YOUR TEST FRAMEWORK STARTING POINT, OR COPY WHAT YOU LIKE AND DITCH THE REST
+-- this was originally written for integration with selenium and saucelabs 
+ - you will find some commented out code for saucelabs, including support for logging videos
+ - you will find some basic selenium framework support including screenshots and logging them
+
+
+
+##### USE AS YOUR TEST FRAMEWORK STARTING POINT, OR COPY WHAT YOU LIKE AND DITCH THE REST
 makes no difference to me.  just leave your feedback on the github page!  thanks!
+
+
+### if you'd like to add things to this and push into my repo, go for it!!!  
