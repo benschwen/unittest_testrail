@@ -5,7 +5,7 @@ A nice and easy integration between python unittest and test rail - using decora
 you'll want to start by looking at **test_controller.py** and **framework/base_test.py** to get examples of how this is used.
 you'll find many examples of how this can be applied to a selenium framework, or any other popular automation methods.
 
-see test_modules/../..py **for usage of attributes on test methods**
+see test_modules/../..py **for usage of decorator attributes on test methods**
 
 -- this was originally written for integration with selenium and saucelabs 
  - you will find some commented out code for saucelabs, including support for logging videos
