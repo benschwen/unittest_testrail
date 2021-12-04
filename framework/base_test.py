@@ -2,7 +2,7 @@ import unittest
 import sys
 
 # So that we can import shared modules and functions that are not selenium specific.
-# you might have to do some mcguyver stuff here.  I haven't tested it.
+
 sys.path.append("..")
 
 from framework.attributes.test_types import TestTypeAttr
